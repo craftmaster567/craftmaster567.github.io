@@ -2,7 +2,7 @@
   "Ads":
   [
     {
-      "select_main_ads": "APPLOVIN-M",
+      "select_main_ads": "APPLOVIN-D",
       "select_backup_ads":"APPLOVIN-D",
       "main_ads_banner": "483e08cc6f98be06",
       "main_ads_intertitial":"a1a3298a3f1a3593",
@@ -25,6 +25,41 @@
    "Skin":
   [
     {
+    "id": 4120053057,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/SEuK7D8u0589gcuZO6f4NK0imHcqgAPSalcsGRdBK5A5BgvJCMrI8OVR2_XzTP8PrH8MlARyepWGrBts0N1y_40",
+    "view_skin": "https://lh3.googleusercontent.com/IQPEIELhoRTDWWU8Bh9-pYErXTjdIrEHJBrHVG29UIqmKYuirTUU4Ac7b_yIBdr-6_KlJR8nB54GRZSyoGUgsA"
+  },
+  {
+    "id": 4527223649,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/3MYYgKLHcGW-vkUrNhw6G5vlko8yBHccewsZelC1O7nSJ_A6Wi_Ii83SG1jJ4Hpa9mXazB01UbDK1m2-RV8Dag",
+    "view_skin": "https://lh3.googleusercontent.com/kE0BJFoMI3AkXPJcZHJSEFLn7REALtwIp9TB4630cMGaXrPhpoiPvABkmoZ8O5vxm3ZpMYSswnSmpk3AaPsU-A"
+  },
+  {
+    "id": 3567053561,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/Ri4Lr2bF2hPcM-Y-nVF4NjOzRG4dYzrT27-HpXRacw3M-FRTSYmHjqN7I2FWTjczBeCLNYhShaoHNhi82K6dEQ",
+    "view_skin": "https://lh3.googleusercontent.com/1SI4CvPw_530WpBEiAuLEcMgA1-U6-dWAPP-mTof2ZQlnIg8tg2FKVRxhveFi7pce-EdKeKpfUIVrx7pTfm2uw"
+  },
+  {
+    "id": 5089563140,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/nTgGniSM_9hPkbIQFrXfxG6A4C-Lla8kRXH99ub8hR05j0_crAaN_P7iiH67FNfGyZh7wfRxjoRKABCRbmquRcj3M2fnnGxyyA",
+    "view_skin": "https://lh3.googleusercontent.com/NkVtuJNyY1INRxl_RPeqXCXtPVl_ifautiFaaTVjH4lY7kaqECAhqgKQ1utkp_ssV_-I5g0EkVgr4nQdHlo4gX9uQww95v-P5y0"
+  },
+  {
+    "id": 4782263377,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/t-rdL0SEMkxwC4GfdtYVgQfYV7KSXZX0s5hRdkMXqpRfkG_nk6PwoC1Mg2jZioH1RW4zUKRnj-w8HCsoqYSyWV8TCh7GYfhLB6A",
+    "view_skin": "https://lh3.googleusercontent.com/TGR0D_f-qzdjWVOobjYPtXYTTEAQh3ZYdefz6bVouXBWII5oN54RWwh-HM-7AoZt0os9LqGLEwN6hp0Iy-HVZhPSThzDHwRidQ"
+  },
+  {
+    "id": 4966274104,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/RGGsnwNSIdZKVYAyIfaxYrfAEGDKPP4hoq5T3xGH4NO-FyIawAxX2P-Zma7HqsDJZOB_24IB3-QLuO3nT6InBChstCwZ8Oc_aw",
+    "view_skin": "https://lh3.googleusercontent.com/l9tzz8twWvA_okB7j_DMqU2DZ1h-olio77svHIC8sf_doaN1en05D3IR5NtXE_7ExFPxo2gJGJaun4erwzt8OiRdW3pw-2g29vrN"
+  }, {
       "id":1,
       "name_skin":"alok veteranesco",
       "skin_url":"https://lh3.googleusercontent.com/_pFNloSoYg92QLI1Vb27xsuRAu-kb01LZaHOwa-oT9p32C8CqEqemdH0gcb_4PBxpyKuc801WRa25y6Eed0q160",
