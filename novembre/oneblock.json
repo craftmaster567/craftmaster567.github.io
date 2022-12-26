@@ -1,8 +1,8 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads": "IRON",
+      "select_main_ads": "APPLOVIN-D",
+      "select_backup_ads":"STARTAPP",
       "main_ads_banner": "ca-app-pub-3361819946658765/4540497115",
       "main_ads_intertitial": "ca-app-pub-3361819946658765/3227415444",
       "native_for_admob": "ca-app-pub-3361819946658765/9601252105",
