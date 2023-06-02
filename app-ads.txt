@@ -11,3 +11,4 @@ Verve.com, 15290, RESELLER, 0c8f5958fc2d6270
 indexexchange.com, 192829, RESELLER, 50b1c356f2c5c8f
 applovin.com, 5bf22095121ef14e5d8186b705765be6, DIRECT
 facebook.com, 520738746113690, DIRECT, c3e20eee3f780d68
+google.com, pub-6947849202823364, DIRECT, f08c47fec0942fa0
