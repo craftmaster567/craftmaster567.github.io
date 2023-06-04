@@ -3,9 +3,9 @@
       {
         "select_main_ads": "FACEBOOK",
         "select_backup_ads":"ADMOB",
-        "main_ads_banner": "",
-        "main_ads_intertitial":"",
-        "main_ads_natives":"",
+        "main_ads_banner": "806777510987804_806777797654442",
+        "main_ads_intertitial":"806777510987804_806777987654423",
+        "main_ads_natives":"806777510987804_806778070987748",
         "backup_ads_natives":"ca-app-pub-6947849202823364/6648581829",
         "backup_ads_banner":"ca-app-pub-6947849202823364/4926089001",
         "backup_ads_intertitial":" ca-app-pub-6947849202823364/2654276743",
